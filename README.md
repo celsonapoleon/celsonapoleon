@@ -60,11 +60,11 @@ Aqui estão alguns projetos que demonstram minhas habilidades e paixão por inov
 
 ## Formação Acadêmica
 
-* **Pós-graduação Stricto Sensu - Mestrado em Agronegócio e Desenvolvimento** (Março 2023 - Março 2025) - UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho" [cite: 75]
-* **MBA em Gestão de Projetos** (Outubro 2023) - Centro Universitário Mario Pontes Jucá - UMJ [cite: 76]
-* **Pós-graduação Lato Sensu - Desenvolvimento de Pessoas, Negócios e Performance e Analytics** (2021) - UNINASSAU [cite: 77]
-* **Bacharelado em Administração** (2014-2019) - UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho" [cite: 77]
-* **Técnico em Administração** (2012-2013) - ETEC - Escola Técnica Estadual de São Paulo [cite: 77]
+* **Pós-graduação Stricto Sensu - Mestrado em Agronegócio e Desenvolvimento** (Março 2023 - Março 2025) - UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho" [![UNESP PGAD](https://img.shields.io/badge/UNESP%20PGAD-00AEEA?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy5wMy5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00OTYgMjU2Yy0xLjMuNTktNS4yMSAyLjE2LTEwLjc2IDUuMTRtLTQ3NC45Mi02Ljg1Yy01LjU1LTIuOTctOS40Ni00LjU1LTEwLjc2LTUuMTRMNTkgMjU2bC4xMi01LjcxQzU4LjI3IDI0NS41IDU1LjU1IDI0Mi42IDUxLjQ1IDI0MC42bC01LjI4LTIuNTJDNDEuNzYgMjM1LjggMzguNTUgMjMzIDM1LjIgMjMyLjJsLS4wOS0uMDRjLTUuNTUtMi43Ni01Ljc2LTIuODYtMTEuNTctMi44OEgyLjc5YzcuNTkgOC45IDguMzUgMTUuNzYgOC42MyAxOS40MiAxLjQ1IDE4LjQyIDUuMTMgMzcuNDggMTAuNjUgNTUuNDEgNS41MiAxNy45MyAxMC4yMiAzMi43NiAxNC42MyA0My45NCA0LjQxIDExLjE5IDguNSAxOS43MiAxMS43MiAyNS44OSA2LjgxIDEyLjg3IDExLjk0IDE5LjM5IDE3LjAyIDI0LjA4IDIuOTYgMi40MiA1LjE5IDMuOTcgNi44MSA0Ljg4IDIuNzQgMS41MyA0LjM2IDIuMzEgNC4zOSAyLjMyIDEuMDcgLjEzIDMuMjUtLjQ5IDYuNjktMS45MyAxNi4xMy02L3N2ZyUzRQ==&logoColor=white)](https://www.tupa.unesp.br/#!/pgad)
+* **MBA em Gestão de Projetos** (Outubro 2023) - Centro Universitário Mario Pontes Jucá - UMJ [![UMJ Pós-Graduação](https://img.shields.io/badge/UMJ%20P%C3%B3s--Gradua%C3%A7%C3%A3o-2E86C1?style=for-the-badge&logo=mortarboard&logoColor=white)](https://umj.edu.br/categoria/pos-graduacao/)
+* **Pós-graduação Lato Sensu - Desenvolvimento de Pessoas, Negócios e Performance e Analytics** (2021) - UNINASSAU [![UNINASSAU Pós-EAD](https://img.shields.io/badge/UNINASSAU%20P%C3%B3s--EAD-5F4B8B?style=for-the-badge&logo=mortarboard&logoColor=white)](https://posead.uninassau.edu.br/)
+* **Bacharelado em Administração** (2014-2019) - UNESP - Universidade Estadual Paulista "Júlio de Mesquita Filho" [![UNESP Tupã](https://img.shields.io/badge/UNESP%20Tup%C3%A3-00AEEA?style=for-the-badge&logo=mortarboard&logoColor=white)](https://www.tupa.unesp.br/)
+* **Técnico em Administração** (2012-2013) - ETEC - Escola Técnica Estadual de São Paulo [![ETEC Tupã](https://img.shields.io/badge/ETEC%20Tup%C3%A3-005EFF?style=for-the-badge&logo=mortarboard&logoColor=white)](https://www.etectupa.com.br/)
 
 ---
 
